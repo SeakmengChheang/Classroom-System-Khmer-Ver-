@@ -1,0 +1,33 @@
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.frmMain.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.Properties.Resources.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Absent.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Home.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View_Add.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View_Update.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).csproj.GenerateResource.cache
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).csproj.CoreCompileInputs.cache
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).exe.config
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.frmMain.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.Properties.Resources.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Absence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.ChangePW.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.CreateNewUsername.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.ForgotPW.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Home.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Login.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Report.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.Score.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.SetNameSubjects.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.TeacherInfomations.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.TotalAbsence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View_Add.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View_Update.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom_Project__Win_Form_.User_Controls.View.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).csproj.GenerateResource.Cache
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Release\Classroom Project (Win Form).csprojResolveAssemblyReference.cache

@@ -1,0 +1,69 @@
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).exe.config
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).exe
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).pdb
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Properties.Resources.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).csproj.GenerateResource.cache
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).csproj.CoreCompileInputs.cache
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).exe
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).pdb
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.frmMain.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Add.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Update.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Home.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Score.resources
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).csprojAssemblyReference.cache
+E:\C# Console\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Absence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).exe.config
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom Project (Win Form).pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.Platform.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.Telerik.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MaterialSkin.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.Design.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.Fonts.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Microsoft.Practices.CompositeUI.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Licensing.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Shared.Base.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\System.Windows.Interactivity.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.CompositeUI.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.GridView.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Telerik.WinControls.UI.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\TelerikCommon.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.Platform.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Caliburn.Micro.Telerik.pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Shared.Base.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\System.Windows.Interactivity.xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.frmMain.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Properties.Resources.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Absence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.ChangePW.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.CreateNewUsername.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.ForgotPW.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Home.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Login.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Report.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Score.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.SetNameSubjects.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.TeacherInfomations.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.TotalAbsence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Add.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Update.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).csproj.GenerateResource.Cache
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project (Win Form).csprojResolveAssemblyReference.cache

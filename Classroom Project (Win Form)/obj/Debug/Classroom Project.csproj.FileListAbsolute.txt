@@ -1,0 +1,45 @@
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).exe.config
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Classroom Project (Win Form).xml
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\MetroFramework.Design.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\MetroFramework.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Release\MetroFramework.Fonts.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.Design.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\MetroFramework.Fonts.dll
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.Error_Report.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.msgBoxErrorAnimation.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.msgBoxTickAnimation.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.Splash_Screen.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.Welcome_Page.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.frmMain.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Information.About_Software.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Information.About_Us.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Properties.Resources.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Absence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.ChangePW.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.CreateNewUsername.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.ForgotPw.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Home.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Login.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Report.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.Score.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.SetNameSubjects.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.TeacherInfomations.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.TotalAbsence.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Add.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View_Update.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.User_Controls.View.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project.csproj.GenerateResource.cache
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project.csproj.CoreCompileInputs.cache
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project.csproj.CopyComplete
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom System.exe.config
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom System.exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\bin\Debug\Classroom System.pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom System.exe
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom System.pdb
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom_Project__Win_Form_.Animation.Logo_Splash.resources
+E:\C# Win Forms\Classroom Project (Win Form)\Classroom Project (Win Form)\obj\Debug\Classroom Project.csprojAssemblyReference.cache

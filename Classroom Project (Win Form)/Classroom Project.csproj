@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2616B981-DC23-48F0-882B-44932EB60EED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Classroom_Project__Win_Form_</RootNamespace>
+    <AssemblyName>Classroom System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\mengm\Desktop\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <Prefer32Bit>true</Prefer32Bit>
+    <DocumentationFile>
+    </DocumentationFile>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons8_training_96_Chm_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>49697E63D3405E180F102F85A4F3297DD26BC39B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animation\Error Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\Error Report.Designer.cs">
+      <DependentUpon>Error Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Logo_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\Logo_Splash.Designer.cs">
+      <DependentUpon>Logo_Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\msgBoxErrorAnimation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\msgBoxErrorAnimation.Designer.cs">
+      <DependentUpon>msgBoxErrorAnimation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\msgBoxTickAnimation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\msgBoxTickAnimation.Designer.cs">
+      <DependentUpon>msgBoxTickAnimation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Splash_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\Splash_Screen.Designer.cs">
+      <DependentUpon>Splash_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Welcome_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation\Welcome_Page.Designer.cs">
+      <DependentUpon>Welcome_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridView DoubleBuffered.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information\About Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\About Software.Designer.cs">
+      <DependentUpon>About Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information\About Us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\About Us.Designer.cs">
+      <DependentUpon>About Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs" />
+    <Compile Include="User Controls\Absence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\Absence.Designer.cs">
+      <DependentUpon>Absence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ChangePW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\ChangePW.Designer.cs">
+      <DependentUpon>ChangePW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\CreateNewUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\CreateNewUsername.Designer.cs">
+      <DependentUpon>CreateNewUsername.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ForgotPW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\ForgotPW.Designer.cs">
+      <DependentUpon>ForgotPW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\Score.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\Score.Designer.cs">
+      <DependentUpon>Score.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\SetNameSubjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\SetNameSubjects.Designer.cs">
+      <DependentUpon>SetNameSubjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\TeacherInfomations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\TeacherInfomations.Designer.cs">
+      <DependentUpon>TeacherInfomations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\TotalAbsence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\TotalAbsence.Designer.cs">
+      <DependentUpon>TotalAbsence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\View-Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\View-Add.Designer.cs">
+      <DependentUpon>View-Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\View-Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Controls\View-Update.Designer.cs">
+      <DependentUpon>View-Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Animation\Error Report.resx">
+      <DependentUpon>Error Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animation\Logo_Splash.resx">
+      <DependentUpon>Logo_Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animation\msgBoxErrorAnimation.resx">
+      <DependentUpon>msgBoxErrorAnimation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animation\msgBoxTickAnimation.resx">
+      <DependentUpon>msgBoxTickAnimation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animation\Splash_Screen.resx">
+      <DependentUpon>Splash_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animation\Welcome_Page.resx">
+      <DependentUpon>Welcome_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\About Software.resx">
+      <DependentUpon>About Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\About Us.resx">
+      <DependentUpon>About Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="User Controls\Absence.resx">
+      <DependentUpon>Absence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ChangePW.resx">
+      <DependentUpon>ChangePW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\CreateNewUsername.resx">
+      <DependentUpon>CreateNewUsername.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ForgotPW.resx">
+      <DependentUpon>ForgotPW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\Score.resx">
+      <DependentUpon>Score.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\SetNameSubjects.resx">
+      <DependentUpon>SetNameSubjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\TeacherInfomations.resx">
+      <DependentUpon>TeacherInfomations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\TotalAbsence.resx">
+      <DependentUpon>TotalAbsence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\View-Add.resx">
+      <DependentUpon>View-Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\View-Update.resx">
+      <DependentUpon>View-Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-png-image-59147.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-graduate-48.png" />
+    <None Include="Resources\icons8-school-director-48.png" />
+    <None Include="Resources\icons8-student-male-48.png" />
+    <None Include="Resources\icons8-id-verified-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons8_training_96_Chm_icon.ico" />
+    <None Include="Resources\IMG_1726.JPG" />
+    <None Include="Resources\icons8-coach-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
